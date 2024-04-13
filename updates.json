@@ -1,1 +1,16 @@
-{}
+{
+    "youtube": {
+        "version": "19.09.37",
+        "integrations_version": "v1.7.0",
+        "patches_version": "v4.6.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.6.0"
+    },
+    "youtube_music": {
+        "version": "6-47-53-64753240",
+        "integrations_version": "v1.7.0",
+        "patches_version": "v4.6.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.6.0"
+    }
+}
